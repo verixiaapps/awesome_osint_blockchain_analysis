@@ -416,6 +416,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [EMER name (Maltego Transform)](https://github.com/Tomasuh/Maltego_Transform_Blockchain_DNS/tree/63e6fb152a75893103ec038b9974db937ba21baa) | Useful transform to resolve EMER domain names |
 | [Mugetsu](https://t.me/the_mugetsu_bot) | (Correlation from X, handle,  identify wallet, tradinjg analysis and wallet explorer 
 | [Impersonator](https://chromewebstore.google.com/detail/impersonator/hgihfkmoibhccfdohjdbklmmcknjjmgl) | Spoof ETH address for authenticating in Dapps
+- [HostDeFi](https://hostdefi.com/scan) - Free A+–F token-safety scanner across Solana and 8 EVM chains (mint/freeze authority, liquidity depth, holder concentration). Keyless REST API.
 
 
 ## 📖 RESOURCES, REFERENCES, READING
